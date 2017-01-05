@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[DownloadManageViewController alertView:didDismissWithButtonIndex:]:DownloadManageViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "textfield.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController tableView:cellForRowAtIndexPath:]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "media.images">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController serverResponce:]:HomeViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[InstagramAuthViewController webView:shouldStartLoadWithRequest:navigationType:]:InstagramAuthViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__55-[AddInstagramACViewController instagramAuthSucceeded:]_block_invoke_2:AddInstagramACViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController viewDidAppear:]:HomeViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AddInstagramACViewController btn_backClicked:]:AddInstagramACViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AddInstagramACViewController serverResponce:]:AddInstagramACViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[respDict valueForKey: @&quot;request&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__31-[HomeViewController showFeed:]_block_invoke:HomeViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__35-[HomeViewController showUserMedia]_block_invoke:HomeViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AddInstagramACViewController instagramAuthSucceeded:]:AddInstagramACViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController btn_downloadClicked:]:HomeViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
